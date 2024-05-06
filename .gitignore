@@ -1,0 +1,16 @@
+Client/Log/*
+Client/Shell/*.sh
+Client/Clear.sh
+Client/build/*
+Client/SQL/DataBases/*
+
+
+
+
+
+
+Server/Log/*
+Server/build/*
+
+
+
